@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Артем Емельянов](https://up.htmlacademy.ru/htmlcss/22/user/179468).
-* Наставник: [`Дмитрий Гуляев`] (https://htmlacademy.ru/profile/dima).
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
