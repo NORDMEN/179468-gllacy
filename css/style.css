@@ -2,3 +2,23 @@ body {
   background: #849d8f;
 }
 
+.description {
+  width: 1146px;
+  height: 306px;
+  background-image: url("img/content/vafel.jpg");
+  background-color: #e9dbbd;
+}
+
+.blog-form {
+  width: 560px;
+  height: 220px;
+  background-image: url("/img/content/ice_background.jpg") none;
+  background-color: #ffffff;
+}
+
+.spam {
+  width: 560px;
+  height: 220px;
+  background-color: #f8f7f4;
+}
+
