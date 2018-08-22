@@ -2,23 +2,36 @@ body {
   background: #849d8f;
 }
 
-.description {
+.description   {
   width: 1146px;
   height: 306px;
-  background-image: url("img/content/vafel.jpg");
+  background-image: url("../img/content/vafel.jpg");
   background-color: #e9dbbd;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 27px;
 }
 
-.blog-form {
+.blog-form section {
+  margin: auto;
+}
+
+.blog  {
   width: 560px;
   height: 220px;
-  background-image: url("/img/content/ice_background.jpg") none;
+  background-image: url("../img/content/ice_background.jpg");
+  background-repeat: no-repeat;
   background-color: #ffffff;
-}
+  border-radius: 15px;
+  float: left;
+ }
 
 .spam {
   width: 560px;
   height: 220px;
   background-color: #f8f7f4;
+  border-radius: 15px; 
+  float: right;
 }
+
 
